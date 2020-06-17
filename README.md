@@ -21,7 +21,7 @@ I will list all changes here that were done after the video was published to You
 
 ### Python
 
-- Instead of using the sprintf syntax with %s and %d it is possible and way more readable to use python3's format strings for outputting data from variables. (https://www.python.org/dev/peps/pep-0498/) Thanks to @gothicVI!
+- Instead of using the sprintf syntax with %s and %d it is possible and way more readable to use python3's format strings for outputting data from variables. (https://www.python.org/dev/peps/pep-0498/) Thanks to [@gothicVI](https://github.com/gothicVI)!
 
 ## Installation
 
