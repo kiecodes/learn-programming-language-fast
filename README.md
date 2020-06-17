@@ -15,10 +15,19 @@ In this repository you find all of the 25 programs that created during the video
 
 For each language we have the following programs: `hello-world`, `hello-name`, `coditions`, `for-loop`, `while-loop` and `functions`.
 
+## Changes
+
+I will list all changes here that were done after the video was published to YouTube.
+
+### Python
+
+- Instead of using the sprintf syntax with %s and %d it is possible and way more readable to use python3's format strings for outputting data from variables. (https://www.python.org/dev/peps/pep-0498/) Thanks to @gothicVI!
+
 ## Installation
 
 ### Python
 
+Please make sure to install python Version 3.6 or above:
 https://wiki.python.org/moin/BeginnersGuide/Download
 
 ### C++
