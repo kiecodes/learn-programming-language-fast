@@ -6,7 +6,7 @@ solution = random.randint(1, 100)
 print("You have 10 tries to guess my number between 1 and 100.")
 
 for i in range(10):
-	print("[%d/10] What's your guess?" % (i+1))
+	print(f"{(i+1)/10} What's your guess?")
 	guess = int(sys.stdin.readline())
 
 	if guess < solution:
